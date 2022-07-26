@@ -42,7 +42,7 @@ const renderHtml = (array) => {
         </tr>
         `
         /* EL BOTON PARA ELIMINAR QUEDÓ ESTABLECIDO PARA BORRAR
-          LA TAREA
+          LA TAREA (no copié... tanto)
          AUN SI LA TAREA NO HA SIDO COMPLETADA*/
         if(tasks.estado){contador ++}
         }
