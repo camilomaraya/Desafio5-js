@@ -1,0 +1,26 @@
+body{
+    background-image: url(/assets/background/fondo.jpg);
+    color: aliceblue;
+}
+main{
+    margin: 3%;
+    border: 2px outset rgba(0, 0, 0, 0.854) ;
+    border-radius: 10px;
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.table {
+    color: aliceblue;
+}
+
+.numbers{
+    display: flex;
+    flex-direction: column;
+}
+.results{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
